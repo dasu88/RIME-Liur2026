@@ -1,0 +1,14 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Sep 18 15:09:00 2025"
+  rime_version: 1.13.1
+patch:
+  "style/color_scheme": dark_temple
+  app_options:
+    # cmd 與 powershell不預設英文，預設改為true
+    cmd.exe:
+      ascii_mode: false  
+  # "switches/@0/reset": 1	# 1=預設英文輸入，0=中文
+  # "style/display_tray_icon": true  # 顯示托盤圖標  
