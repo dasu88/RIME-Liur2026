@@ -29,7 +29,7 @@
 	5. liur_English.dict.yaml：常用英文字，可以直接打，並上字。
 
 # 2025/12/24 公告
-目前已有更好、更完整的方案  [github.com/ryanwuson/rime-liur](<https://github.com/ryanwuson/rime-liur>) , 整合的相當棒，我的方案本來就是拾人牙慧，再做一些微調，故之後應該不會再做更新，建議可直接至 [這個專案](<https://github.com/ryanwuson/rime-liur>) 下載使用。
+目前已有更好、更完整的方案  [github.com/ryanwuson/rime-liur](<https://github.com/ryanwuson/rime-liur>) , 整合的相當棒，我的方案本來就是拾人牙慧，再做一些微調，應不會頻繁更新，建議可直接至 [這個專案](<https://github.com/ryanwuson/rime-liur>) 下載使用。
 基本上，我會建議各位採用 [github.com/ryanwuson/rime-liur](<https://github.com/ryanwuson/rime-liur>) 這個整合方案，但因為在使用這個整合方案的時候，發現該版本可能整合了太多功能，所以在Windows環境切換時，會有極細微的延遲，所以目前我的這個專案，只會針對我的個人需求微調整理。但最新版本的資源，仍有部份資源來自上述專案(我實在很喜歡他的符號選單功能，所以把他的符號選單整合到我的版本，再加上一個常用符號的選項)，非我原創，畢竟字碼整理相當費時，此部份仍歸功於[ryanwuson的這個專案](<https://github.com/ryanwuson/rime-liur>)。
 
 # 2026/08/21 公告
